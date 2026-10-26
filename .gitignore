@@ -1,0 +1,19 @@
+# secrets
+.env
+*.pem
+config.json
+
+# python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# runtime
+cache/
+logs/
+.tmp/
+
+# agent workspace
+.superpowers/
+docs/superpowers/
